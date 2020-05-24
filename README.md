@@ -15,7 +15,7 @@
 
 MVP
 
-[]Create Mockup/design
+[ ]Create Mockup/design
 
 
 
@@ -24,7 +24,7 @@ MVP
 
 
 
-[]Figure out data situation(manual entry or datascrape)
+[ ]Figure out data situation(manual entry or datascrape)
 
 
 
@@ -34,7 +34,7 @@ MVP
 
 
 
-[]Set up Data relationships(user has many reviews, reviews have many comments)
+[ ]Set up Data relationships(user has many reviews, reviews have many comments)
 
 
 
@@ -50,7 +50,7 @@ MVP
 
 
 
-[]Set up Backend
+[ ]Set up Backend
 
 
 
@@ -59,5 +59,5 @@ MVP
 
 
 
-[]Set up Frontend
+[ ]Set up Frontend
 
